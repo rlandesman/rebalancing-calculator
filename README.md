@@ -4,6 +4,8 @@ A React + FastAPI portfolio rebalancing calculator that helps you determine how 
 
 This app is not financial advice; it merely helps with rebalancing portfolios, which some [Bogleheads](https://www.bogleheads.org/wiki/Rebalancing) do once a year.
 
+<img width="1725" height="660" alt="Screenshot 2026-01-15 at 2 06 48 PM" src="https://github.com/user-attachments/assets/06e5169e-7de8-4dd6-9791-dfdc74cff518" />
+
 ## Key Highlights
 
 - **Fully Offline** – All calculations run locally; no external API calls, your data never leaves your machine
