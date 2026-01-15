@@ -1,0 +1,53 @@
+# This file was AI generated to map Fidelity ETFs to asset types and should be updated as needed.
+mappings:
+  # Domestic Equity (Total US Market)
+  VTI: Domestic Equity
+  ITOT: Domestic Equity
+  SPTM: Domestic Equity
+  SCHB: Domestic Equity
+   
+  # Foreign Developed Equity (EAFE: Europe, Australasia, Far East)
+  VEA: Foreign Developed Equity
+  IEFA: Foreign Developed Equity
+  SCHF: Foreign Developed Equity
+  SPDW: Foreign Developed Equity
+   
+  # Emerging Markets Equity
+  VWO: Emerging Markets Equity
+  IEMG: Emerging Markets Equity
+  SCHE: Emerging Markets Equity
+  SPEM: Emerging Markets Equity
+   
+  # US Real Estate (REITs)
+  VNQ: Real Estate
+  SCHH: Real Estate
+  USRT: Real Estate
+  IYR: Real Estate
+   
+  # U.S Treasury Bonds (Mixed Duration)
+  VGIT: U.S Treasury Bonds
+  IEF: U.S Treasury Bonds
+  SCHR: U.S Treasury Bonds
+  GOVT: U.S Treasury Bonds
+  VGSH: U.S Treasury Bonds
+  VGLT: U.S Treasury Bonds
+   
+  # US TIPS Bonds (Inflation Protected)
+  VTIP: US TIPS Bonds
+  SCHP: US TIPS Bonds
+  TIP: US TIPS Bonds
+  STIP: US TIPS Bonds
+
+  # Total Bond (Agg: Gov + Corp + MBS)
+  BND: Total Bond
+  AGG: Total Bond
+  SCHZ: Total Bond
+
+# Symbols to ignore (Fidelity Sweep & Money Market)
+ignore:
+  - FZFXX
+  - SPRXX
+  - SPAXX
+  - FDRXX
+  - FCASH
+  - "Pending activity"
