@@ -6,6 +6,8 @@ This app is not financial advice; it merely helps with rebalancing portfolios, w
 
 It is **heavily** inspired by this online rebalancing calculator: <https://www.richsnapp.com/blog/2020/09-25-rebalancing-your-lazy-portfolio>
 
+<img width="1725" height="660" alt="Screenshot 2026-01-15 at 2 06 48 PM" src="https://github.com/user-attachments/assets/06e5169e-7de8-4dd6-9791-dfdc74cff518" />
+
 ## Key Highlights
 
 - **Fully Offline** – All calculations run locally; no external API calls, your data never leaves your machine
